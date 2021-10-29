@@ -1,0 +1,17 @@
+body{
+  min-height:3000px;
+}
+.jumbotron {
+  padding-top: 6rem;
+  background-color: rgba(152, 206, 141, 0.233);
+}
+#galeri{
+  background-color: rgba(152, 206, 141, 0.233);
+}
+section{
+  padding-top: 5rem;
+}
+.footer{
+  background-color: #a6e0a1;
+  
+}
