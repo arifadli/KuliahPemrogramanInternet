@@ -1,2 +1,2 @@
-# Kuliyah-Pemrograman-Internet
-Repository ini digunakan untuk mendukung perkuliahan Pemrograman Internet
+# Kuliah Pemrograman Internet
+Repository ini disediakan untuk mendukung pelakasanaan matakuliah Pemrograman Internet
